@@ -1,0 +1,1 @@
+export const BU="https://backend.deepanshtandon7.workers.dev"

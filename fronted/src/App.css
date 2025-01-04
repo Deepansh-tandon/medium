@@ -1,0 +1,7 @@
+/* Add this to your global CSS file */
+
+
+.blog-card {
+  width: 100%;
+  max-width: 42rem; /* Adjust as needed */
+}
