@@ -1,10 +1,9 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   Editor,
   EditorState,
   RichUtils,
-  convertToRaw,
-  ContentState,
+
 } from "draft-js";
 import "draft-js/dist/Draft.css";
 import { AppBar } from "../components/AppBar";
